@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MihaMixFromGB/chat-app-react.io/static/css/main.79b29216.css",
+    "main.js": "/MihaMixFromGB/chat-app-react.io/static/js/main.caf969b5.js",
+    "static/media/profile.png": "/MihaMixFromGB/chat-app-react.io/static/media/profile.6dc4b82c86e5a5178bfc.png",
+    "index.html": "/MihaMixFromGB/chat-app-react.io/index.html",
+    "main.79b29216.css.map": "/MihaMixFromGB/chat-app-react.io/static/css/main.79b29216.css.map",
+    "main.caf969b5.js.map": "/MihaMixFromGB/chat-app-react.io/static/js/main.caf969b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b29216.css",
+    "static/js/main.caf969b5.js"
+  ]
+}
